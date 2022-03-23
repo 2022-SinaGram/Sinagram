@@ -1,0 +1,21 @@
+#ball {
+  cursor: pointer;
+}
+
+.list {
+  width: 30%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.clothes {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+}
+
+body {
+  background-color: white;
+}
